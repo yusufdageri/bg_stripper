@@ -1,0 +1,1 @@
+⚠️ Önemli Not: Uygulamayı ilk kez açıp arka plan sildiğinizde, arkada yapay zeka modelini indirdiği için kısa bir süre "Yanıt Vermiyor" gibi durabilir. Korkmayın, tamamen normaldir! Model bir kez indikten sonra bir daha asla bekletmez.
